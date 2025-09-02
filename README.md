@@ -34,5 +34,13 @@ Responsive & adaptive design, component-based architecture, state management, ev
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kirilos_16/)
 
 ---
+## 🚀 Featured Projects
+
+[![DIVelopers-js-project](https://github-readme-stats.vercel.app/api/pin/?username=kulakaa073&repo=DIVelopers-js-project&theme=radical)](https://github.com/kulakaa073/DIVelopers-js-project)
+[![Positivius](https://github-readme-stats.vercel.app/api/pin/?username=Kirilko-frontend&repo=Positivius&theme=radical)](https://github.com/Kirilko-frontend/Positivius)
+[![MiniSocial-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Kirilko-frontend&repo=MiniSocial-Frontend&theme=radical)](https://github.com/Kirilko-frontend/MiniSocial-Frontend)
+[![React-Crypto-App](https://github-readme-stats.vercel.app/api/pin/?username=Kirilko-frontend&repo=react-crypto-app&theme=radical)](https://github.com/Kirilko-frontend/react-crypto-app)
+
+---
 
 ⭐️ Feel free to check out my repositories and pinned projects below!
