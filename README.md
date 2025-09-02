@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Kirill
 
-<!--
-**Kirilko-frontend/Kirilko-frontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a **Frontend Developer** passionate about creating interactive user interfaces.  
+📚 Actively learning programming and constantly improving my skills.  
+⚡ I love coding because it allows me to see results instantly and interact with what I build.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages:**  
+HTML, CSS, SCSS, Tailwind CSS, JavaScript, TypeScript, SQL/MySQL (basic)
+
+**Frameworks / Libraries:**  
+React, Redux, React Router, Axios, Bootstrap, Simple Lightbox, Formik, Yup, Toasty, Swiper, Lodash
+
+**Tools & Technologies:**  
+Git, GitHub, REST API, Fetch API, Vite, npm, Node.js, Express, MongoDB, VS Code, Figma, Vercel, Render, Postman, ESLint, Prettier
+
+**Additional skills / Concepts:**  
+Responsive & adaptive design, component-based architecture, state management, event handling, form validation, modular CSS, CSS variables, BEM methodology, frontend performance optimization, debugging, accessibility (a11y), cross-browser compatibility, basic understanding of backend integration
+
+---
+
+## 📊 GitHub Stats
+![Kirilko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirilko-frontend&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirilko-frontend&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/scally1603)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyrylo-kakulia-3557b9371/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kirilos_16/)
+
+---
+
+⭐️ Feel free to check out my repositories and pinned projects below!
